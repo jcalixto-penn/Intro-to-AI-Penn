@@ -1,2 +1,2 @@
-# Intro-to-AI-Penn.github.io
+# Intro-to-AI-Penn
 Introduction to AI at UPenn website
